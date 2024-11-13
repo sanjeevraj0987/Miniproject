@@ -1,58 +1,60 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-
+## Plant Disease Prediction
+  The Plant Disease Prediction System uses machine learning to diagnose plant diseases from images, providing farmers and gardeners with timely treatment recommendations.
+  
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+  The Plant Disease Prediction project focuses on developing a system that utilizes machine learning algorithms to identify and diagnose plant diseases based on user-uploaded images. This initiative aims to assist farmers and gardening enthusiasts by providing timely, accurate information, helping them take appropriate action to protect their crops and plants, ultimately enhancing agricultural productivity and sustainability.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Utilizes convolutional neural networks (CNNs) for accurate disease classification
+- User-friendly web application for easy image upload and analysis.
+- Treatment recommendations.
+- High precision and accuracy.
+- Supports a diverse range of plant species and diseases for broader applicability.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
+* Development Environment: Python 3.6 or later is necessary for coding the Plant Disease Prediction system.
+* Deep Learning Frameworks: TensorFlow for model training.
+* Data Management Libraries: Numpy and Pandas are essential for efficient data management.
 * Version Control: Implementation of Git for collaborative development and effective code management.
 * IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Additional Dependencies: Includes streamlit, TensorFlow,Seaborn/Matplotlib, and Numpy/Pandas for deep learning tasks.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image](https://github.com/user-attachments/assets/555902ba-d5dd-4a39-b7c2-0a65aaec808e)
+
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Passing the input image
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![miniprojectoutput2](https://github.com/user-attachments/assets/9d39bcc1-3d68-4d25-b7ff-c92021b1572a)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output2 - The Predicted Output
+
+![miniprojectoutput1](https://github.com/user-attachments/assets/3fb25882-b782-48d4-987c-0188b1d205b4)
+
+
+Detection Accuracy: 97%
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+  The Plant Disease Prediction System significantly improves agricultural practices by enabling timely diagnosis of plant diseases, ultimately helping farmers reduce crop losses and enhance productivity. By combining machine learning with user-friendly interfaces, the project fosters informed decision-making and promotes sustainable farming methods.
+
+  This initiative lays the groundwork for future advancements in agricultural technology and supports efforts to ensure food security and environmental sustainability in an increasingly challenged agricultural landscape.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1)	K. P. Asha Rani; S. Gowrishankar, “Pathogen-Based Classification of Plant Diseases: A Deep Transfer Learning Approach for Intelligent Support Systems,” (2023).
+2)	Mahrin Tasfe; Akm Nivrito” Deep Learning Based Models for Paddy Disease Identification and Classification: A Systematic Survey” (27 June 2024).
+3)	Natasha Nigar; Hafiz Muhammad Faisal, “Improving Plant Disease Classification With Deep-Learning-Based Prediction Model Using Explainable Artificial Intelligence” (15 July 2024).
 
 
 
